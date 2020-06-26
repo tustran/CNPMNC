@@ -1,1 +1,1 @@
-<?php include 'google.com' ?>
+<?php include 'google.com.vn' ?>
