@@ -1,1 +1,1 @@
-<?php include 'view/homepage.php';?>
+<?php require 'view/homepage.php';?>

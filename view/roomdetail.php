@@ -12,7 +12,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li><a href="../view/homepage.php">Trang chủ</a></li>
+        <li><a href="homepage.php">Trang chủ</a></li>
         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Khu vực
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
@@ -20,7 +20,7 @@
           <li><a href="#">Khu tây</a></li>
           <li><a href="#">Khu nam</a></li>
           <li><a href="#">Khu bắc</a></li>
-          <li><a href="#">Khu trung tâm</a></li>
+          <li><a href="roomslist.php">Khu trung tâm</a></li>
         </ul>
         </a></li>
         <li><a href="#">Deals tốt</a></li>

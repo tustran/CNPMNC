@@ -1,6 +1,4 @@
-
-
-
+<?php include 'header.php';?>
 
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
@@ -14,7 +12,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Trang chủ</a></li>
+        <li><a href="homepage.php">Trang chủ</a></li>
         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Khu vực
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
@@ -22,7 +20,7 @@
           <li><a href="#">Khu tây</a></li>
           <li><a href="#">Khu nam</a></li>
           <li><a href="#">Khu bắc</a></li>
-          <li><a href="roomslist.php">Khu trung tâm</a></li>
+          <li><a href="#">Khu trung tâm</a></li>
         </ul>
         </a></li>
         <li><a href="#">Deals tốt</a></li>
@@ -90,3 +88,57 @@
     </div>
   </div>
 </div><br><br>
+
+<div class="container">    
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Nhà trọ</div>
+      </div>
+    </div>
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Nhà trọ</div>
+      </div>
+    </div>
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Nhà trọ</div>
+      </div>
+    </div>
+  </div>
+</div><br><br>
+
+<div class="container">    
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Nhà trọ</div>
+      </div>
+    </div>
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Nhà trọ</div>
+      </div>
+    </div>
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Nhà trọ</div>
+      </div>
+    </div>
+  </div>
+</div><br><br>
+
+<?php include 'footer.php';?>
